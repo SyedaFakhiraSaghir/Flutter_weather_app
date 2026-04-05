@@ -1,4 +1,3 @@
-# Flutter_weather_app
 # 🌤️ Flutter Weather App
 
 A beautiful, production-ready weather application built with Flutter that demonstrates Clean Architecture, BLoC state management, and real-time weather data integration.
