@@ -79,9 +79,15 @@ flutter_weather/
 ├── settings_page.dart
 └── main.dart
 
+searching for a city:
+
+<img width="412" height="829" alt="image" src="https://github.com/user-attachments/assets/749ea811-a692-4d8e-84b5-3184874e99af" />
+
+
 <img width="443" height="868" alt="image" src="https://github.com/user-attachments/assets/c39f6718-df84-4d82-8d0e-910bd56cf0c8" />
 
 in fahrenheit:
+
 <img width="454" height="866" alt="image" src="https://github.com/user-attachments/assets/4749bc48-8f3a-4e2b-a06f-87664cca7bef" />
 
 
